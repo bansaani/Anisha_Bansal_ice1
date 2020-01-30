@@ -15,7 +15,7 @@ public class Card {
         
         private final Suit suit;
         private final Value value;
-        private final Jocker jocker;
+        
         public Card(Suit s, Value gVal)
         {
            suit =s;
